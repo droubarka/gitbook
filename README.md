@@ -1,13 +1,12 @@
 ---
 description: >-
-  "Quick OS Guides is your go-to source for simplified operating system
-  guidance."
+  "Quick OS Guides" is your go-to source for simplified operating system
+  guidance.
 ---
 
-# Introduction
+# Quick OS Guides
 
-## Operating System
-
+## Introduction
 An **Operating System (OS)** is essential software that manages computer hardware and software resources. It provides a user interface, handles file management, memory allocation, and process scheduling, allowing multiple applications to run smoothly. Examples include Windows, macOS, Linux, Android.
 
 ### What is a Program?
